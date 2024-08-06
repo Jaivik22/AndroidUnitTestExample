@@ -5,13 +5,13 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="populateQuoteFromAssets()">
+      <SelectionState runConfigName="usingExpressoTest">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="quotesManagerTest">
+      <SelectionState runConfigName="test_incrementBtn()">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="testPreviousQuote_expeted_CorrectQuote()">
+      <SelectionState runConfigName="test_shareBtn()">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
